@@ -4,7 +4,7 @@ body{
   text-align: center;
 }
 .top-container{
-  background-color: #C9BBCF;
+  /**background-color: #C9BBCF;**/
   margin: 0;
 }
 h1
